@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Code-Potter
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning Phyton and C++
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: I'm a boy
+- ⚡ Fun fact: I code in UE5
